@@ -1,2 +1,2 @@
-# Quora-Question-Pairs
-A Siamese-Dense RNN (Recurrent Neural Network) approach to the 'Quora Question Pairs' prediction task from Kaggle.
+# Sentence-Pair-Similarity-Analysis
+We use a Manhattan LSTM approach to predicting the similarities between a pair of sentences.
